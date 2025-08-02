@@ -6,6 +6,10 @@ A simple backyard design tool built with Rust and Bevy, inspired by early versio
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 You are free to use, modify, and distribute this project, provided that any derivative works or services built upon it are also released under the AGPL-3.0 license.
 
+This project uses the Bevy game engine, which is licensed under the MIT or Apache 2.0 License.
+See https://bevyengine.org/ for more details.
+
+
 ## Features (MVP)
 - Grid-based backyard layout
 - Place and move objects (Shed, Deck, Batting Cage, Fence)
